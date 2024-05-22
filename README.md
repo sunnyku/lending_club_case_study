@@ -37,15 +37,12 @@ As an online lending marketplace, company aims to :
   - purpose (small business is more likely to default)
   - grade (lower grades are more likely to default)
   - addr_state (some states are more likely to have high defaults)
-  - home_ownership ()
-  - delinq_2yrs
+  - delinq_2yrs (higher values seem to have more)
   - inq_last_6_months (probability of default increases with number of inq)
-  - term
-  - pub_rec
-  - pub_rec_bankrupcis
-  - dti
-  - loan_amnt
-  - int_rates
+  - term (36 month loan has high probability of full payment)
+  - pub_rec_bankrupcies/pub_rec (individuals reporting higher values can lead to defaulting)
+  - loan_amnt (Higher rates can increases the probability of person defaulting)
+  - int_rates(majority of the interest rate is in the range of 5% to 15%  and the Very High interest rates are in more likely to default which is greater than 15%)
 - The following segments seem to have Low/No influence on loan defaults :
   - verfication_status
   - emp_length
