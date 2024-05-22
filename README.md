@@ -51,6 +51,8 @@ As an online lending marketplace, company aims to :
   - issue_d
   - total_acc
   - total_rec
+  - dti
+  - home_ownership
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
