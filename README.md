@@ -22,13 +22,7 @@ As an online lending marketplace, company aims to :
 - Understanding the key indicators of loan defaults, to minimize financial loss and for better risk assessment.
 
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-## Objectives
-
-
-## DataSet Analysis
-
-## Approach
+## Approach and Analysis
 - Understanding and Data cleaning
   -  Understanding what each columns represents
   - Dropping columns which cannot be used, having null values, no variation etc.
@@ -39,7 +33,6 @@ As an online lending marketplace, company aims to :
   - Multivariate and segmented Analysis
 - Conclusion
   - Drawing observations and recommendations based on the data  
-
 
 
 ##  Recommendation and Conclusions
